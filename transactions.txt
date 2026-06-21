@@ -1,0 +1,29 @@
+1,6,4,2026,Luong,12000000,1,Tien luong 4 
+2,20,4,2026,Thu nhap khac,500000,1,Tien thuong lam them
+3,10,4,2026,An uong,150000,0,An toi voi ban
+4,12,4,2026,Di lai,50000,0,Do xang xe
+5,15,4,2026,Mua sam,1200000,0,Mua giay moi
+6,18,4,2026,Hoc tap,450000,0,Mua sach hoc C++
+7,22,4,2026,An uong,85000,0,Tra sua va banh ngot
+8,25,4,2026,Giai tri,300000,0,Xem phim cuoi tuan
+9,28,4,2026,An uong,200000,0,Di sieu thi mua do
+10,5,5,2026,Luong,12000000,1,Tien luong thang 5
+11,3,5,2026,Di lai,60000,0,Do xang xe
+12,6,5,2026,An uong,120000,0,Com trua van phong
+13,10,5,2026,Mua sam,850000,0,Mua quan ao
+14,14,5,2026,Giai tri,250000,0,Di ca phe game
+15,18,5,2026,An uong,500000,0,Lien hoan nhom do an
+16,22,5,2026,Hoc tap,150000,0,In tai lieu hoc tap
+17,26,5,2026,An uong,95000,0,An vat buoi chieu
+18,30,5,2026,Di lai,50000,0,Do xang xe
+19,5,6,2026,Luong,15000000,1,Tien luong thang 6
+20,15,6,2026,Thu nhap khac,1000000,1,Tien lam freelance
+21,2,6,2026,An uong,150000,0,An lau cung ban be
+22,4,6,2026,Di lai,50000,0,Do xang xe
+23,8,6,2026,An uong,4900000,0,Mua do an tich tru
+24,11,6,2026,Mua sam,2500000,0,Mua quan ao moi
+25,14,6,2026,Giai tri,1600000,0,Di xem concert ca nhac
+26,17,6,2026,Hoc tap,2100000,0,Mua khoa hoc lap trinh
+27,20,6,2026,An uong,300000,0,Hop mat cuoi tuan
+28,23,6,2026,Di lai,1250000,0,Bao duong xe may xuong xien
+29,25,6,2026,Mua sam,600000,0,Mua qua sinh nhat ban

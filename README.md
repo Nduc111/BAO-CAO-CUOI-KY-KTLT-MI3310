@@ -48,21 +48,21 @@ Chương trình được tổ chức theo hướng **module hóa**, tách biệt
 ## Cấu trúc thư mục
 
 ```text
-.
-├── model.hpp                # Định nghĩa struct Transaction, Budget
-├── DynamicArray.hpp          # Mảng động tự cài đặt bằng template (Generic Array)
-├── Algo.hpp                  # Thuật toán sắp xếp (bubble sort) và tìm kiếm (linear search)
-├── Utils.hpp / Utils.cpp     # Hàm tiện ích: kiểm tra ngày hợp lệ, đọc số tiền hợp lệ
-├── Transaction.hpp / .cpp    # Xử lý logic Giao dịch (thêm/sửa/xóa/hiển thị)
-├── Budget.hpp / .cpp         # Xử lý logic Ngân sách (thêm/sửa/hiển thị)
-├── Report.hpp / .cpp         # Tạo báo cáo tài chính theo tháng, cảnh báo vượt ngân sách
-├── Storage.hpp / .cpp        # Đọc/ghi dữ liệu giao dịch và ngân sách vào file text
-├── main.cpp                  # Điểm đầu vào (Entry point), chứa menu CLI
-│
-├── transactions.txt           # Dữ liệu giao dịch đã lưu
-├── budgets.txt                 # Dữ liệu ngân sách đã lưu
-│
-├── test.cpp                   # Unit test (dùng assert) cho Utils, DynamicArray,...
+├──data/
+│   ├── transactions.txt           # Dữ liệu giao dịch đã lưu
+│    └──  budgets.txt                 # Dữ liệu ngân sách đã lưu
+├── src/
+│   ├── model.hpp                # Định nghĩa struct Transaction, Budget
+│   ├── DynamicArray.hpp          # Mảng động tự cài đặt bằng template (Generic Array)
+│   ├──Algo.hpp                  # Thuật toán sắp xếp (bubble sort) và tìm kiếm (linear search)
+│   ├── Utils.hpp / Utils.cpp     # Hàm tiện ích: kiểm tra ngày hợp lệ, đọc số tiền hợp lệ
+│   ├── Transaction.hpp / .cpp    # Xử lý logic Giao dịch (thêm/sửa/xóa/hiển thị)
+│   ├── Budget.hpp / .cpp         # Xử lý logic Ngân sách (thêm/sửa/hiển thị)
+│   ├── Report.hpp / .cpp         # Tạo báo cáo tài chính theo tháng, cảnh báo vượt ngân sách
+│   ├── Storage.hpp / .cpp        # Đọc/ghi dữ liệu giao dịch và ngân sách vào file text
+│   ├── main.cpp                  # Điểm đầu vào (Entry point), chứa menu CLI
+├──tests/
+│    └──test.cpp                   # Unit test (dùng assert) cho Utils, DynamicArray,...
 └── README.md                   # Tài liệu mô tả dự án
 ```
 

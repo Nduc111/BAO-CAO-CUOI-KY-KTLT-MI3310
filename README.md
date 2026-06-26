@@ -1,3 +1,4 @@
+# NHÓM 29
 # Ứng Dụng Quản Lý Tài Chính Cá Nhân (Personal Finance Manager)
 
 > Bài tập cá nhân môn **Kỹ Thuật Lập Trình**: Xây dựng ứng dụng quản lý thu/chi và ngân sách bằng C++.

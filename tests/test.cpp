@@ -1,8 +1,8 @@
 #include <cassert>
 #include <iostream>
-#include "Utils.hpp"
-#include "DynamicArray.hpp"
-#include "model.hpp" 
+#include "../src/Utils.hpp"
+#include "../src/DynamicArray.hpp"
+#include "../src/model.hpp" 
 
 using namespace std;
 
